@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     398857683100086273       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "ECC_test"      # Project title
+  wokwi_id:     399192124046955521       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "ECC_test1"      # Project title
   author:       "Dr. Vaibhav Neema"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "it is use for detecting single bit error"      # One line description of what your project does
@@ -38,10 +38,10 @@ pinout:
   uio[1]: "ttio1:IN"
   uio[2]: "ttio2:IN"
   uio[3]: "ttio3:IN"
-  uio[4]: ""
-  uio[5]: ""
-  uio[6]: ""
-  uio[7]: ""
+  uio[4]: "ttio4:OUT"
+  uio[5]: "ttio5:OUT"
+  uio[6]: "ttio6:OUT"
+  uio[7]: "ttio7:OUT"
 
 # Do not change!
 yaml_version: 6
